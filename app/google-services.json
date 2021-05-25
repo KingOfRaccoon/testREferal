@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618463933367",
+    "project_id": "testreferal-5a7b1",
+    "storage_bucket": "testreferal-5a7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618463933367:android:1f514a825a141aa65cae32",
+        "android_client_info": {
+          "package_name": "com.example.testreferal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618463933367-89vrahj07fo098e80d0mf52t4og8aar1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEV8OQkrkQteOkDKmzzvxqrHa-TOjhqVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618463933367-89vrahj07fo098e80d0mf52t4og8aar1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
